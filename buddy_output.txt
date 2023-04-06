@@ -1,0 +1,33 @@
+D: 2
+Free Block: 2
+E: 2
+Z: 2
+Free Block: 8
+Free Block: 16
+B: 17
+
+E: 60
+F: 58
+G: 59
+D: 63
+Free Block: 256
+Z: 510
+
+C: 129
+D: 63
+E: 7
+F: 7
+Free Block: 16
+Free Block: 32
+Free Block: 128
+
+D: 513
+E: 900
+F: 1024
+C: 513
+
+E: 511
+Free Block: 256
+C: 129
+D: 257
+Free Block: 512
